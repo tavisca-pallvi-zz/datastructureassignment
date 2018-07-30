@@ -1,0 +1,16 @@
+C:\Users\rnayyar\source\repos\Solution1\DataStructure\obj\Debug\DataStructure.csprojResolveAssemblyReference.cache
+C:\Users\rnayyar\source\repos\Solution1\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DataStructure\DataStructure\bin\Debug\DataStructure.exe.config
+C:\Users\HP\source\repos\DataStructure\DataStructure\bin\Debug\DataStructure.exe
+C:\Users\HP\source\repos\DataStructure\DataStructure\bin\Debug\DataStructure.pdb
+C:\Users\HP\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.exe
+C:\Users\HP\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.pdb
+C:\Users\pgoel\Desktop\git\Data-structure\DataStructure\DataStructure\obj\Debug\DataStructure.csprojResolveAssemblyReference.cache
+C:\Users\pgoel\Desktop\git\Data-structure\DataStructure\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\pgoel\Desktop\git\Data-structure\DataStructure\DataStructure\obj\Debug\DataStructure.exe
+C:\Users\pgoel\Desktop\git\Data-structure\DataStructure\DataStructure\obj\Debug\DataStructure.pdb
+C:\Users\pgoel\Desktop\git\Data-structure\DataStructure\DataStructure\bin\Debug\DataStructure.exe.config
+C:\Users\pgoel\Desktop\git\Data-structure\DataStructure\DataStructure\bin\Debug\DataStructure.exe
+C:\Users\pgoel\Desktop\git\Data-structure\DataStructure\DataStructure\bin\Debug\DataStructure.pdb
